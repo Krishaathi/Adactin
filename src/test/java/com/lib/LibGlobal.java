@@ -192,7 +192,10 @@ public class LibGlobal {
 			cell.setCellValue(value);
 			 FileOutputStream out=new FileOutputStream(file);
 				workbook.write(out);
-			
+				
+		}
+		public static void main(String[] args) {
+			System.out.println("LIBRARY");
 		}
 
 	    }
