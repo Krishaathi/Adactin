@@ -197,6 +197,11 @@ public class LibGlobal {
 		public static void main(String[] args) {
 			System.out.println("LIBRARY");
 		}
+		public static void main(String[] args) {
+			System.out.println("===============================");
+			System.out.println("BaseClass");
+			System.out.println("***********************************");
+		}
 
 	    }
 	
