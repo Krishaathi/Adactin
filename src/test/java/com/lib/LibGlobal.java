@@ -194,6 +194,11 @@ public class LibGlobal {
 				workbook.write(out);
 			
 		}
+		public static void main(String[] args) {
+			System.out.println("===============================");
+			System.out.println("BaseClass");
+			System.out.println("***********************************");
+		}
 
 	    }
 	
